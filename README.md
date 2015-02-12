@@ -3,6 +3,6 @@
 Reverse engineerig poject
 
 Used tools:
-Gimp
-KiCad
-ms paint
+* Gimp
+* KiCad
+* ms paint
